@@ -10,6 +10,7 @@ cd useTensorBoard
 ### 터미널에서 텐서보드
 ```
 python3 add_tensorboard.py
+cat add_tensorboard.py
 tensorboard --logdir=/tmp/1
 ```
 
