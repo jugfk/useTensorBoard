@@ -28,3 +28,11 @@ localhost:6006
 cd useTensorBoard/02_Jupyter
 jupyter notebook
 ```
+* 주피터노트북 맨뒤에 2개를 추가합니다.
+```
+
+```
+
+```
+
+```
