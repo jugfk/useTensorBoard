@@ -1,9 +1,10 @@
-# 젯슨 나노에서 텐서플로우의 시각툴 텐서보드 사용해보기
+# 젯슨 나노에서 텐서플로우의 시각툴 텐서보드 사용하기
 ***
 
 ### 다운로드하기
 ```
-git clone 
+git clone https://github.com/jetsonworld/useTensorBoard.git
+cd useTensorBoard
 ```
 
 ### 터미널 
