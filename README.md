@@ -4,14 +4,14 @@
 * 다운로드하기
 ```
 git clone https://github.com/jetsonworld/useTensorBoard.git
-cd useTensorBoard
 ```
 
 ### 터미널에서 텐서보드
 * 텐서보드 실행하기
 ```
-python3 add_tensorboard.py
+cd useTensorBoard/01_Terminal
 cat add_tensorboard.py
+python3 add_tensorboard.py
 tensorboard --logdir=/tmp/1
 ```
 
