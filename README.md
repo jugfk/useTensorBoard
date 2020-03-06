@@ -74,4 +74,4 @@ def show_graph(graph_def, max_const_size=32):
 show_graph(tf.get_default_graph())
 ```
 
-
+![02_tensorboard_in_jupyter.png](https://raw.githubusercontent.com/jetsonworld/useTensorBoard/master/00_images/02_tensorboard_in_jupyter.png)
