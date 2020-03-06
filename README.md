@@ -7,7 +7,7 @@ git clone https://github.com/jetsonworld/useTensorBoard.git
 cd useTensorBoard
 ```
 
-### 터미널 
+### 터미널에서 텐서보드 
 
 
-### 주피터노트북
+### 주피터노트북에서 텐서보드
