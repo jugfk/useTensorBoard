@@ -14,7 +14,7 @@ cat add_tensorboard.py
 tensorboard --logdir=/tmp/1
 ```
 
-웹브라져를 열어서 아래와 같이 실행합니다.
+ * 웹브라져를 열어서 아래와 같이 실행합니다.
 ```
 localhost:6006
 ```
