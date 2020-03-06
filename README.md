@@ -75,3 +75,7 @@ show_graph(tf.get_default_graph())
 ```
 
 ![02_tensorboard_in_jupyter.png](https://raw.githubusercontent.com/jetsonworld/useTensorBoard/master/00_images/02_tensorboard_in_jupyter.png)
+
+![03_tensorboard_in_jupyter.png](https://raw.githubusercontent.com/jetsonworld/useTensorBoard/master/00_images/03_tensorboard_in_jupyter.png)
+
+![04_tensorboard_in_jupyter.png](https://raw.githubusercontent.com/jetsonworld/useTensorBoard/master/00_images/04_tensorboard_in_jupyter.png)
