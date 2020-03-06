@@ -19,6 +19,8 @@ tensorboard --logdir=/tmp/1
 localhost:6006
 ```
 
+![01_tensorboard.png](https://raw.githubusercontent.com/jetsonworld/useTensorBoard/master/00_images/01_tensorboard.png)
+
 
 ### 주피터노트북에서 텐서보드
 ```
